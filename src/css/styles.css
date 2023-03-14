@@ -34,6 +34,18 @@ main {
   padding: 70px 0;
 }
 
+.events h2{
+  margin-bottom: 20px;
+}
+
+.events ul li{
+  padding: 10px 0;
+}
+
+.events ul li span{
+  font-weight: 700;
+}
+
 .container {
   width: 60%; /* se for uma tela menor que 980px vai se adaptar a 70% */
   max-width: 960px; /* quando chegar em 980px para de aumentar */
@@ -146,6 +158,20 @@ main {
 .container .profile-data .repositories ul li a:hover{
   background-color:hotpink;
   color: #fff
+}
+
+.repositories-stats{
+  margin-top: 10px;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+.repositories-stats p{
+  background-color: hsl(263, 95%, 60%);
+  border-radius: 5px;
+  padding: 5px;
+  color: #fff;
 }
 
 .container .profile-data.hide{
