@@ -9,6 +9,9 @@ This is a solution to the Javascript advanced quest from DevQuest by DevEmDobro
  - Get more user and repositories statistics
  - Display user events
 
+## Solution link
+- Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/projeto-inicial-fetch-github-api/)
+
 ## Build with
 
  - Javascript
